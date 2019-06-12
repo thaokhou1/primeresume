@@ -18,7 +18,7 @@
       </div>                                                              
         <div class=personalSection>
             <p>Eager to learn and face new challenges to grow.</p>                                         </div>           
-           <div id="Experience>
+           <div>
         <h1>Work Experience</h1>
           </div>  
        <div>
