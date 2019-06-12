@@ -77,6 +77,7 @@ reviews, fairly and timely. Follows all disciplinary procedures when necessary. 
         </ul>
       </div>
       <div class=education>
+  <h2>Education</h2>
           <h3>2012 James Madison Online Highschool</h3>
        </div>
      </body>
