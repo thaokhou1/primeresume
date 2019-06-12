@@ -16,7 +16,7 @@
            <div>
         <h1>Work Experience</h1>
           </div>  
-       <div class=job>
+       <div class=jobExperience>
           <h2>Department Manager, Von Maur</h2>
          <p>September 2018- Present</p>
          <p>Responsible for overseeing staff, merchandising, maintaining stocks, and providing customer service.</p>
