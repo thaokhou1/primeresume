@@ -1,7 +1,6 @@
 <!DOCTYPE HTML>
   <html>
     <head>
-      <link href="https://github.com/thaokhou1/css/edit/master/README.md" rel="stylesheet" type="text/css">
       <h2>Khou Thao</h2>
     </head>
     <body id="top">
@@ -26,6 +25,14 @@
           <h2>Department Manager, Von Maur</h2>
          <p>September 2018- Present</p>
          <p>Responsible for overseeing staff, merchandising, maintaining stocks, and providing customer service.</p>
+            <ul>
+              <li>Observes, assists, and motivates sales associates to provide excellent customer service daily; sets an example for others to follow. </li>
+              <li>Trains sales associates in sales technique, product knowledge, and department and store policies and procedures as needed. </li>
+             <li>Assesses sales associates' performance and writes and conducts performance</li>
+                                                                          </ul>
+reviews, fairly and timely. Follows all disciplinary procedures when necessary. </li>
+            <li>Provides feedback to department associates on selling and account statistics on a bi-weekly basis, as well as other performance observations as needed. </li>
+            <li>
      <h2>Store Manager, Potato Corner</h2>
            <p>February 2015-July 2018</p>
            <p>Oversee the daily operations of a fast casual eatery that does $500k in annual revenue within one of the busiest shopping malls in the Twin Cities metro.
