@@ -66,6 +66,7 @@ reviews, fairly and timely. Follows all disciplinary procedures when necessary. 
         </ul>
         </div>
       <div class=keySkills>
+  <h2>Skills</h2>
         <ul class="keyskills">
           <li>Teamwork</li>
           <li>Adaptability</li>
