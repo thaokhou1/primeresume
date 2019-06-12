@@ -76,8 +76,7 @@
         </ul>
       </div>
       <div>
-        <article>
-          <h2>2012 James Madison Online Highschool</h2>
+          <h3>2012 James Madison Online Highschool</h3>
        </div>
      </body>
   </html>
