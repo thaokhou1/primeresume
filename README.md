@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
   <html>
     <head>
-      <title>Khou Thao's Resume</title>
+      <h2>Khou Thao</h2>
     </head>
     <body id="top">
       <div class="mainDetails">
