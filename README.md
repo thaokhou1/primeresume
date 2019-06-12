@@ -22,13 +22,10 @@
         <h1>Work Experience</h1>
           </div>  
        <div>
-         <article>
-         <h2>Department Manager, Von Maur</h2>
+          <h2>Department Manager, Von Maur</h2>
          <p>September 2018- Present</p>
          <p>Responsible for overseeing staff, merchandising, maintaining stocks, and providing customer service.</p>
-         </article>
-         <article>
-           <h2>Store Manager, Potato Corner</h2>
+     <h2>Store Manager, Potato Corner</h2>
            <p>February 2015-July 2018</p>
            <p>Oversee the daily operations of a fast casual eatery that does $500k in annual revenue within one of the busiest shopping malls in the Twin Cities metro.
              <ul>
@@ -51,9 +48,7 @@
              <li>Inventory and product line up</li>
              <li>Talent and acquisistion and retention</li>
            </ul>
-           </articles>
-         <article>
-           <h2>Client Service Technician, Pace Analytical</h2>
+        <h2>Client Service Technician, Pace Analytical</h2>
            <p>June 2017- September 2017</p>
            <li>Processed incoming samples within receiving department of an environmental testing laboratory.</li>
            <li>Ensured accuracy of sample identification and testing requirements based on client request form.</li>
@@ -63,9 +58,7 @@
 </li>
            <li>Monitored stored samples and ensured proper preservation and disposal methods according to Environmental Protection Agency (EPA) regulations and company guidelines.</li>
            </ul>
-         </article>
-      <article>
-        <h2>Sales Associate, Godiva</h2>
+         <h2>Sales Associate, Godiva</h2>
           <ul>
             <li>Maintained in-store merchandise levels and placement in adherence to Godiva company planogram requirements.</li>
             <li>Provided exceptional customer service by greeting customers and making appropriate purchase suggestions based on each customer.</li>
@@ -85,7 +78,6 @@
       <div>
         <article>
           <h2>2012 James Madison Online Highschool</h2>
-        </article>
-      </div>
+       </div>
      </body>
   </html>
