@@ -5,7 +5,6 @@
     </head>
     <body id="top">
       <div class="mainDetails">
-        <h1>Khou Thao</h1>
              <ul>
               <li> a: 2905 Harriet apt308, Minneapolis,Mn 55408</li>
               <li> e: <a href="mailto:thao.khou@gmail.com" target="_blank">thao.khou@gmail.com</a></li>
